@@ -6,5 +6,5 @@
 #### Практика 4 (https://github.com/donteavesdrop/Lesson4): Передача данных между потоками, создание Service, WorkManager
 #### Практика 5 (https://github.com/donteavesdrop/Lesson5): Механизм разрешений, камера, микрофон, плеер
 #### Практика 6 (https://github.com/donteavesdrop/Lesson6): Классы для работы с SQLite, Data Access Object, Room
-#### Практика 7 (https://github.com/donteavesdrop/Lesson7): ЕТЕВОЕ ВЗАИМОДЕЙСТВИЕ В OS ANDROID, HttpUrlConnection и HttpClient, Retrofit, FIREBASE
+#### Практика 7 (https://github.com/donteavesdrop/Lesson7): СЕТЕВОЕ ВЗАИМОДЕЙСТВИЕ В OS ANDROID, HttpUrlConnection и HttpClient, Retrofit, FIREBASE
 #### Практика 8 (https://github.com/donteavesdrop/Lesson8): «Yandex MapKit»
